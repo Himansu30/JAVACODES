@@ -1,7 +1,7 @@
 public class booleanexample{
 public static void main(String args[])
 {
-   boolean y=true;
+   boolean exampleofboolean=true;
   
-   System.out.println(y);
+   System.out.println(exampleofboolean);
 }}
